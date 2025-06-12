@@ -40,9 +40,9 @@ A continuación, una captura de la interfaz que se pidió replicar:
 maquetacion-perfil/
 │
 ├── index.html              # Página principal
-├── style.css               # Estilos CSS
 ├── README.md               # Documentación del proyecto
 └── assets/
+    ├── style.css               # Estilos CSS
     └── img/
         └── perfil-referencia.png  # Imagen de referencia visual
 ```
